@@ -5,6 +5,7 @@ import { useSelector, useDispatch } from "react-redux";
 import ImageLoader from "components/ui/ImageLoader";
 import ProductFeatured from "components/product/ProductFeatured";
 import CircularProgress from "components/ui/ImageLoader";
+import MessageDisplay from "components/ui/MessageDisplay";
 import { SHOP, RECOMMENDED_PRODUCTS } from "constants/routes";
 import { removeFromBasket, addToBasket } from "redux/actions/basketActions";
 import { displayMoney, displayActionMessage } from "helpers/utils";

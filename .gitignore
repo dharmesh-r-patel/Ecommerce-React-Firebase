@@ -102,5 +102,4 @@ yarn-error.log*
 
 test/
 functions/
-static/
-images/
+

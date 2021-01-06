@@ -29,6 +29,14 @@ const Basket = (props) => {
 				.catch((e) => {
 					console.log(e);
 				});
+		}else if (didMount && firebase.auth.currentUser && basket.length === 0) {
+			firebase.saveBasketItems(basket, firebase.auth.currentUser.uid)
+				.then(() => {
+					console.log('Item removed from basket');
+				})
+				.catch((e) => {
+					console.log(e);
+				});
 		}
 	}, [basket]);
 

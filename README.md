@@ -7,11 +7,6 @@ Simple ecommerce react js app with firebase [typescript].
 
 ## TypeScript Version [HERE](https://github.com/jgudo/ecommerce-react/tree/typescript-support)
 
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny1.png)
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny2.png)
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny3.png)
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny7.png)
-
 ## Run Locally
 
 ### 1. Install Dependencies
