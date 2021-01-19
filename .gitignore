@@ -101,5 +101,5 @@ yarn-error.log*
 .firebase/
 
 test/
-functions/
+functions1/
 
